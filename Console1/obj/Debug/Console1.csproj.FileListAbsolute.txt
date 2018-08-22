@@ -1,0 +1,12 @@
+c:\users\user\source\repos\Console1\Console1\bin\Debug\Console1.exe.config
+c:\users\user\source\repos\Console1\Console1\bin\Debug\Console1.exe
+c:\users\user\source\repos\Console1\Console1\bin\Debug\Console1.pdb
+c:\users\user\source\repos\Console1\Console1\obj\Debug\Console1.csprojAssemblyReference.cache
+c:\users\user\source\repos\Console1\Console1\obj\Debug\Console1.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\Console1\Console1\obj\Debug\Console1.exe
+c:\users\user\source\repos\Console1\Console1\obj\Debug\Console1.pdb
+c:\users\user\source\repos\Console1\Console1\bin\Debug\Newtonsoft.Json.dll
+c:\users\user\source\repos\Console1\Console1\bin\Debug\System.Net.Http.Formatting.dll
+c:\users\user\source\repos\Console1\Console1\bin\Debug\Newtonsoft.Json.xml
+c:\users\user\source\repos\Console1\Console1\bin\Debug\System.Net.Http.Formatting.xml
+c:\users\user\source\repos\Console1\Console1\obj\Debug\Console1.csproj.CopyComplete
